@@ -1,4 +1,4 @@
-# IBM-hackathon
+# IBM-hackathon: Bye-Bypass
 
 Pretendemos realizar un modelo de prevención de infartos para residencias de ancianos y hospitales.
 
